@@ -253,7 +253,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "Steam",
-					url: "https://steamcommunity.com/id/FreeLamda/",
+					url: "https://steamcommunity.com/id/thenuclear_/",
 					external: true,
 					icon: "fa6-brands:steam",
 				},
