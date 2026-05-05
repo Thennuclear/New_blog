@@ -5,7 +5,7 @@ published: 2025-09-24
 tags: [杂物间]
 category: 杂物
 sourceLink: https://thenuclear.online/posts/justchat1/justchat/
-draft: false
+draft: true
 ---
 是的,由于台风桦加沙的原因,整个广州都停课了.
 而且一停就是两天,理所当然得就变得闲起来了.
