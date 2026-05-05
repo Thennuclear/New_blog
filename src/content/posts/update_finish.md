@@ -5,7 +5,7 @@ published: 2025-12-06
 tags: [杂物间, 开发]
 category: 开发
 sourceLink: https://thenuclear.online/posts/update_finish/
-pinned: true
+pinned: false
 ---
 
 # 经过了一整天的努力，更新现在已经实装！
