@@ -253,7 +253,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 
 				{
-					name: "Twitch(不常播)",
+					name: "Twitch(基本不播)",
 					url: "https://www.twitch.tv/thenuclaer",
 					external: true,
 					icon: "fa6-brands:twitch",
@@ -267,13 +267,13 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "关于我",
-					url: "/posts/post2_about_me/",
+					url: "/posts/关于我/",
 					icon: "fa6-solid:user-astronaut",
 				},
 				
 				{
 					name: "关于此网站",
-					url: "/posts/post3_about_site/",
+					url: "/posts/关于此网站/",
 					icon: "mdi:web",
 				},
 				{
